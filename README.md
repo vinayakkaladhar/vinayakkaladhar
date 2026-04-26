@@ -15,7 +15,7 @@
 - 🔭 I’m currently working at [Booking.com](https://www.linkedin.com/company/booking.com/)
 - 🌱 I’m passionate about Quality, Test Automation and Web3/Blockchain.
 - 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source).
-- - 🚀 Built scalable automation frameworks for Mobile applications, API and UI testing reducing regression time by 60%
+- 🚀 Built scalable automation frameworks for Mobile applications, API and UI testing reducing regression time by 60%
 - ⚡ Designed performance testing strategies handling 10k+ concurrent users
 - 🤖 Exploring AI-driven test generation and self-healing automation
 - ⚡ Fun fact: I read books, participate in bugathons, and offlate trying to implement AI in quality space!
@@ -25,7 +25,7 @@
 - End-to-end test automation frameworks (UI + API + Mobile)
 - Performance testing pipelines (K6, JMeter)
 - Blockchain testing (smart contracts, APIs, event validation)
-- 🤖 Experimenting with AI in QA:
+- Experimenting with AI in QA:
   - Test case generation using LLMs
   - Flaky test detection
   - Smart assertions & failure analysis
@@ -59,6 +59,10 @@
   <img src="https://img.shields.io/badge/Appium-4727A0?style=for-the-badge&logo=appium&logoColor=white" alt="Appium">
   <img src="https://img.shields.io/badge/Grafana%20K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" alt="Grafana K6">
 </p>
+
+<b>AI Testing:</b><br>
+<img src="https://img.shields.io/badge/Ragas-AI%20Evaluation%20Framework-7D64FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/Promptfoo-LLM%20Testing-7D64FF?style=for-the-badge">
 
 ## DevOps & Infrastructure
 <p>
