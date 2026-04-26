@@ -3,8 +3,7 @@
   
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=🚀+Full-stack+Quality+Engineer;🛠+Test+Automation+Specialist;📊+Performance+%26+Load+Testing+Expert;🤖+Playwright+%7C+Appium+%7C+Tosca+%7C+Rest+Assured;💡+Always+learning+new+things!&font=Fira%20Code&center=true&width=700&height=50&color=F7B500&vCenter=true&pause=1000&size=24&random=false" />
+  <a href="https://readme-typing-svg.demolab.com/?lines=%F0%9F%9A%80+Full-stack+Quality+Engineer;%F0%9F%9B%A0+Test+Automation+Specialist;%F0%9F%93%8A+Performance+%26+Load+Testing+Expert;%F0%9F%A4%96+Playwright+%7C+Appium+%7C+Tosca+%7C+Rest+Assured;%F0%9F%92%A1+Always+learning+new+things!&font=Fira%20Code&center=true&width=700&height=50&color=F7B500&vCenter=true&pause=1000&size=24&random=false">
   </a>
 </p>
 
