@@ -2,9 +2,7 @@
   <h1>👋 Hi, I'm Vinayak Kaladhar</h1>
   
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://readme-typing-svg.demolab.com/?lines=%F0%9F%9A%80+Full-stack+Quality+Engineer;%F0%9F%9B%A0+Test+Automation+Specialist;%F0%9F%93%8A+Performance+%26+Load+Testing+Expert;%F0%9F%A4%96+Playwright+%7C+Appium+%7C+Tosca+%7C+Rest+Assured;%F0%9F%92%A1+Always+learning+new+things!&font=Fira%20Code&center=true&width=700&height=50&color=F7B500&vCenter=true&pause=1000&size=24&random=false">
-  </a>
+  <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%9A%80+Full-stack+Quality+Engineer;%F0%9F%9B%A0+Test+Automation+Specialist;%F0%9F%93%8A+Performance+%26+Load+Testing+Expert;%F0%9F%A4%96+Playwright+%7C+Appium+%7C+Tosca+%7C+Rest+Assured;%F0%9F%92%A1+Always+learning+new+things!&font=Fira%20Code&center=true&width=700&height=50&color=F7B500&vCenter=true&pause=1000&size=24&random=false" />
 </p>
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vinayak-kaladhar-38064657/) &nbsp;
@@ -12,12 +10,25 @@
 
 </div>
 
-  <h2>👨‍💻 Test Engineering at Gojek | QA Specialist | SDET Automation</h2>
+  <h2>👨‍💻 SDET | Building Scalable Test Automation | AI in Quality | Web3 Testing </h2>
 
-- 🔭 I’m currently working at [Goto Group](https://www.linkedin.com/company/gotogroup/)
+- 🔭 I’m currently working at [Booking.com](https://www.linkedin.com/company/booking.com/)
 - 🌱 I’m passionate about Quality, Test Automation and Web3/Blockchain.
 - 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source).
+- - 🚀 Built scalable automation frameworks for Mobile applications, API and UI testing reducing regression time by 60%
+- ⚡ Designed performance testing strategies handling 10k+ concurrent users
+- 🤖 Exploring AI-driven test generation and self-healing automation
 - ⚡ Fun fact: I read books, participate in bugathons, and offlate trying to implement AI in quality space!
+
+- ## 🔬 What I Work On:
+
+- End-to-end test automation frameworks (UI + API + Mobile)
+- Performance testing pipelines (K6, JMeter)
+- Blockchain testing (smart contracts, APIs, event validation)
+- 🤖 Experimenting with AI in QA:
+  - Test case generation using LLMs
+  - Flaky test detection
+  - Smart assertions & failure analysis
 
 <div align="center">
 
